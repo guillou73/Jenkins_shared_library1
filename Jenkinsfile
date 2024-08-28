@@ -1,4 +1,4 @@
-@Library('Jenkins_shared_library') _  #name used in jenkins system for library
+@Library('Jenkins_shared_library') _  
 def COLOR_MAP = [
     'FAILURE' : 'danger',
     'SUCCESS' : 'good'
